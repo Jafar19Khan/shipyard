@@ -1,4 +1,3 @@
-process.exit(1);
 'use strict';
 
 const { createApp } = require('./app');
